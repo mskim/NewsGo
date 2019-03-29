@@ -1,0 +1,2 @@
+# NewsGo
+NewsGo manual
