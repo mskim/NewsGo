@@ -9,3 +9,7 @@
 * [EditingArticle](editingarticle.md)
 * [Printing](printing.md)
 
+## NewGroup
+
+* [Group2](newgroup/group2.md)
+
