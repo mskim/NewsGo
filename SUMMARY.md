@@ -11,6 +11,6 @@
 
 ## NewGroup
 
-* [Group2](newgroup/group2.md)
+* [Math Test](newgroup/group2.md)
 * [page1 in Group2](newgroup/page1-in-group2.md)
 
