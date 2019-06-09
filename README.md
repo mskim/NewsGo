@@ -6,5 +6,5 @@ It is revolutionary. It will change the way we edit newspaper. Newspaper editing
 
 ## How is that possible?
 
-edited in github
+It is possible because we are take a fresh approch to newspaper editing.
 
